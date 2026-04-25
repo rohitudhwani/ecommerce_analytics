@@ -26,7 +26,7 @@ This project builds an end-to-end **customer churn prediction system** on a real
 
 ---
 
-## 🎯 Model Performance
+## Model Performance
 
 | Model | ROC-AUC | Accuracy |
 |---|---|---|
@@ -38,7 +38,7 @@ The near-identical accuracy between XGBoost and Logistic Regression is intention
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 **UCI Online Retail II** — Real UK-based non-store online retail transactions, Dec 2009 – Dec 2011.
 
@@ -50,7 +50,7 @@ The near-identical accuracy between XGBoost and Logistic Regression is intention
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 12 features engineered from raw transaction data — no external data required.
 
@@ -71,7 +71,7 @@ The near-identical accuracy between XGBoost and Logistic Regression is intention
 
 ---
 
-## 🔍 SHAP Explainability
+## SHAP Explainability
 
 Model decisions are fully explainable using SHAP (SHapley Additive exPlanations), making results trustworthy and auditable.
 
@@ -94,7 +94,7 @@ Model decisions are fully explainable using SHAP (SHapley Additive exPlanations)
 
 ---
 
-## 🚨 Customer Risk Tiers
+## Customer Risk Tiers
 
 | Risk Tier | Customers | Avg Churn Prob | Revenue at Risk |
 |---|---|---|---|
@@ -105,7 +105,7 @@ Model decisions are fully explainable using SHAP (SHapley Additive exPlanations)
 
 ---
 
-## 📋 Retention Action Recommendations
+## Retention Action Recommendations
 
 | Priority | Segment | Signal | Recommended Action | Revenue Protected |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ Model decisions are fully explainable using SHAP (SHapley Additive exPlanations)
 
 ---
 
-## 📈 Key EDA Insights
+## Key EDA Insights
 
 **Seasonality:** Revenue and order volume nearly double in Q4 (Sep–Dec) across both years. This is wholesale Christmas stocking behaviour, not retail impulse buying. The spike is in *volume*, not basket size — average order value does not increase in Q4.
 
@@ -131,7 +131,7 @@ Model decisions are fully explainable using SHAP (SHapley Additive exPlanations)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -145,7 +145,7 @@ Model decisions are fully explainable using SHAP (SHapley Additive exPlanations)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Download the dataset from [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 2. Upload `online_retail_II.xlsx` to your Colab environment (or Jupyter if you prefer)
@@ -154,7 +154,7 @@ Model decisions are fully explainable using SHAP (SHapley Additive exPlanations)
 
 ---
 
-## 👤 Author
+## Author
 
 **Rohit Udhwani**
 Data Analyst (trying to become a Data Scientist)
@@ -164,7 +164,7 @@ Data Analyst (trying to become a Data Scientist)
 
 ---
 
-## 📄 License
+## License
 
 Dataset: UCI Machine Learning Repository (public domain)
 Code: MIT License
