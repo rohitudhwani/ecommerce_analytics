@@ -1,5 +1,7 @@
 # Customer Churn Prediction & Revenue Recovery Engine
 ### eCommerce | Machine Learning | XGBoost | SHAP Explainability
+<img width="980" height="779" alt="image" src="https://github.com/user-attachments/assets/cefcb528-29e5-4d01-92f5-42c56c8a6617" />
+<img width="1794" height="635" alt="image" src="https://github.com/user-attachments/assets/ad1e08ee-f4ab-4bb1-8cb9-e55503404ec3" />
 
 ---
 
